@@ -9,6 +9,7 @@ The repository contains:
 * sentiment_analysis.py - python file contains directly the machine leaning modelling
 
 [ref](https://stackabuse.com/python-for-nlp-sentiment-analysis-with-scikit-learn/)
+
 João Pedro Vazquez.
 
 [LinkedIn](https://www.linkedin.com/in/joao-pedro-vazquez/)
