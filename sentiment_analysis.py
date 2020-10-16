@@ -46,10 +46,14 @@ svcclassifier.fit(X_train,y_train)
 prediction = svcclassifier.predict(X_test)
 
 # Random Forest F1-score
+print('Random Forest F1-score')
 print(classification_report(y_test,predict))
 # SVM F1-score
+print('SVM F1-score')
 print(classification_report(y_test,prediction))
 # Random Forest Accuracy score
+print('Random Forest Accuracy score')
 print(accuracy_score(y_test, predict))
 # SVM Accuracy score
+print('SVM Accuracy score')
 print(accuracy_score(y_test, prediction))
